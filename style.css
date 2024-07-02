@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+  }
+  
+  table, th, tr, td {
+    border: 1px solid black;
+  }
+  
+  body {
+    background-image: url(https://gh.cdn.sewest.net/assets/idhttps://www.square-enix-games.com/static/images/selogo_onwhite.jpg);
+    background-size:none
+  }
