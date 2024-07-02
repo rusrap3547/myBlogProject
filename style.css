@@ -32,4 +32,8 @@ nav {
 }
 li {
 	border-top: 1px solid white;
+	text-align: left;
+}
+img {
+	text-align: right;
 }
