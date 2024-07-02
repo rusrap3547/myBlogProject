@@ -1,12 +1,35 @@
+body {
+	background-image: url(https://gh.cdn.sewest.net/assets/idhttps://www.square-enix-games.com/static/images/selogo_onwhite.jpg);
+	background-color: darkslategray;
+	color: whitesmoke;
+	text-align: center;
+}
+
 table {
-    width: 100%;
-  }
-  
-  table, th, tr, td {
-    border: 1px solid black;
-  }
-  
-  body {
-    background-image: url(https://gh.cdn.sewest.net/assets/idhttps://www.square-enix-games.com/static/images/selogo_onwhite.jpg);
-    background-size:none
-  }
+	width: 100%;
+}
+
+table,
+th,
+tr,
+td {
+	border: 1px solid black;
+}
+nav {
+	background-color: lightcyan;
+	color: black;
+}
+.introductionParagraph {
+	border: 2px white;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+#aboutParagraphs {
+	border: 2px solid whitesmoke;
+	border-radius: 10%;
+	background-color: black;
+	background-image: conic-gradient(black, blue, black, green, black, yellow, black, red, black);
+}
+li {
+	border-top: 1px solid white;
+}
